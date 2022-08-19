@@ -1,0 +1,22 @@
+APPID:18335984
+API KEY:md7L8WeOFhvTqgeyhiP4kWUf
+SECRET KEY:5ULLtOga6O71xsujcyjrUSuXZ8RpmFjB
+
+图灵机器人：2183f0a5d9d24495853e9b9b7caff5dd
+                    7b64483719454a93a7ac2a61343d1d69
+                    bc6d5da979ea4fb7a1971602ed830032
+                    05ba411481c8cfa61b91124ef7389767
+                    4e348190e92547fe85efc3fb137345e7
+                    60db5011ff204107bf777a6ad1dead11
+                    07de572672a4492db2fce1240e89e51f
+su pi -c "python2.7 guanjianci.py resources/xiaoming.pmdl  &"
+ sudo python2.7 guanjianci.py resources/xiaoming.pmdl
+有何指教
+ [Desktop Entry]
+
+Type=Application
+Exec= sudo python /home/pi/guanjianci.py resources/xiaoming.pmdl
+请再说一遍我没听清
+请说出唤醒词语来将我唤醒，然后发出指令
+小明天气预报 读邮件 随机 顺序 继续下一曲上 加音量 减 退出 停止 聊天 讲故事
+请选择讲故事或者退出
